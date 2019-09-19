@@ -1,0 +1,6 @@
+framework module Pods_texture_tutorial {
+  umbrella header "Pods-texture-tutorial-umbrella.h"
+
+  export *
+  module * { export * }
+}
