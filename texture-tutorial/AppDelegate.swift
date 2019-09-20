@@ -19,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         let vc = ViewController()
         let navVC = UINavigationController(rootViewController: vc)
         navVC.navigationBar.isTranslucent = false
-        vc.title = "Texture"
+        vc.title = "TextureGram"
         
         window = UIWindow(frame: UIScreen.main.bounds)
         window?.rootViewController = navVC
