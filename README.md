@@ -1,4 +1,7 @@
-# textureGram-completed
-Recreate Instagram with Texture
+# TextureGram
+This is the next version of Gram using Texture 🥵
 
-![Simulator Screen Shot - iPhone 5s - 2019-09-19 at 19 25 57](https://user-images.githubusercontent.com/16457495/65243842-6660eb00-db13-11e9-8e75-028cdd604771.png)
+This is the starter version, to find the complete one check [here](https://github.com/wendyliga/textureGram-completed) 
+
+![Simulator Screen Shot - iPhone 5s - 2019-09-20 at 11 24 22](https://user-images.githubusercontent.com/16457495/65299340-5a1f7100-db99-11e9-93c6-d545cebbf8d4.png)
+
